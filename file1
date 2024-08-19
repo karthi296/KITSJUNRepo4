@@ -8,7 +8,6 @@ System.out.println("Rate of Interest is: "+b.getRateOfInterest()+" %");
 }}   
 
 #webhook job demo
-#new services code configuration done
 
 31-jul-2024
 webhook job has work as the pull the latest code from git reprositry immediately when changes in the github repository
