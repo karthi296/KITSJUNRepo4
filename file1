@@ -11,3 +11,6 @@ System.out.println("Rate of Interest is: "+b.getRateOfInterest()+" %");
 
 31-jul-2024
 webhook job has work as the pull the latest code from git reprositry immediately when changes in the github repository
+
+
+webhook job has work as the pull the latest code from git reprositry immediately when changes in the github repository
